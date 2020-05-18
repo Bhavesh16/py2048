@@ -14,3 +14,7 @@ Win or lose is checked using game_state function and if result comes, print and 
 
 # Special imports
 os.system('cls') clears screen before every display call to display new one, keyboard library is used so that after every key input, no need to press enter, as keboard.read_only() works very fast, there is time.sleep() of 1 sec. 
+
+# Command line
+for command line follow...
+![image](https://user-images.githubusercontent.com/64722466/82190429-a2508800-990e-11ea-98da-62d881ab27f9.jpg)
